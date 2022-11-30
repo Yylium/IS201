@@ -1,0 +1,17 @@
+.myfont{
+    font-family: 'Courier New'
+}
+
+.mysubfont{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #e6a756 !important;
+}
+
+
+.myimg{
+    width: 75% !important;
+}
+
+.myfooter{
+    font-style: italic;
+}
